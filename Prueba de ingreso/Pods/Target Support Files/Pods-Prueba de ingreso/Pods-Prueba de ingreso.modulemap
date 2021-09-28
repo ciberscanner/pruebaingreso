@@ -1,0 +1,6 @@
+framework module Pods_Prueba_de_ingreso {
+  umbrella header "Pods-Prueba de ingreso-umbrella.h"
+
+  export *
+  module * { export * }
+}

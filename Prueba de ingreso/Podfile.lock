@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Mocker (2.5.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - Mocker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Mocker
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Mocker: a507909031ef5d1014fe18f383c1d0f96c182b99
+
+PODFILE CHECKSUM: 831f2aeb887625575c6a67f80e546f097e8a4c54
+
+COCOAPODS: 1.10.1
